@@ -9,7 +9,7 @@
 1. `Ctrl + Shift + P`를 눌러 명령 팔레트를 연 후 "Cursor Settings"를 엽니다.
 2. 좌측에 `Tab` 메뉴를 선택한 뒤 `Cursor Tab`을 종료합니다.
 
-![image](./docs/cursor.png)
+![image](./cursor.png)
 
 ### Jebrains IDE(Intellij, PyCharm) 자동완성 끄기
 
@@ -18,7 +18,7 @@
 - 체크 박스 선택시 : 자동완성 켜짐
 - 체크 박스 선택 해제 : 자동완성 꺼짐
 
-![image](./docs/jetbrains.png)
+![image](./jetbrains.png)
 
 ### VSCode 자동완성(코파일럿) 끄기
 
