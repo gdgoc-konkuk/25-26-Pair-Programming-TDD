@@ -1,9 +1,9 @@
 /**
- * 볼링 게임 점수 계산 클래스
+ * 볼링 게임 클래스
  */
-class Game {
+export class Game {
   /**
-   * 게임 초기화
+   * 새로운 게임을 초기화합니다.
    */
   constructor() {
     // 구현을 시작하세요
@@ -25,5 +25,3 @@ class Game {
     return 0;
   }
 }
-
-export default Game;

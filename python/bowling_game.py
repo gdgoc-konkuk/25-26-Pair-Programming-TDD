@@ -1,8 +1,10 @@
 class Game:
-    """볼링 게임 점수 계산 클래스"""
+    """볼링 게임 클래스"""
 
     def __init__(self):
-        """게임 초기화"""
+        """
+        새로운 게임을 초기화합니다.
+        """
         pass
 
     def roll(self, pins: int) -> None:
