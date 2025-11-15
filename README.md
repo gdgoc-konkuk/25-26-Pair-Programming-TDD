@@ -9,9 +9,7 @@
 - [Python README](./python/README.md)
 
 
-## 🚨 자동완성 임시 중지 🚨
-
-**[자동완성 임시 중지 가이드](./disable-auto-complete.md)**
+### [자동완성 임시 중지 가이드](./disable-auto-complete.md)]
 
 ## 구현 내용
 
