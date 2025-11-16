@@ -23,4 +23,4 @@ class Game:
         Returns:
             총 점수
         """
-        return sum(self.total_score)
+        return self.total_score
